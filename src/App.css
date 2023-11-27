@@ -1,0 +1,30 @@
+.App {
+  height: fit-content;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: grey;
+}
+
+.row1 {  
+  display: flex;
+  align-items: center;  
+  justify-content: center;  
+  align-self: center;
+}
+
+.header {
+  text-align: center;
+  align-self: center; 
+}
+
+.logo {
+  background-color: grey; 
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  padding: 1px;
+  
+  align-items: center;
+  border-radius: 5px;
+}
